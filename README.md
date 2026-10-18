@@ -1,32 +1,14 @@
 # Diego Flores — Engineering Portfolio
 
-English portfolio covering automation, robotics, mechanical design and functional prototyping.
+Private working version, updated October 18, 2026. GitHub Pages remains unpublished.
 
-## Edit directly in GitHub
+## Editing
+Edit index.html for the overview; each project has its own HTML file. Edit style.css for layout and app.js for filters. Serve this folder with a static web server for local preview. No build step is needed.
 
-1. Open `index.html` for the homepage, experience, education and contact details.
-2. Open the repository root and choose a project HTML file for an individual case study.
-3. Click the pencil icon (Edit this file), update the text, and choose **Commit changes**.
-4. GitHub Pages publishes the `main` branch from `/ (root)`. Updates may take a few minutes.
+## Images
+Ten WebP assets are cropped from the supplied academic team presentations. Captions identify physical photographs versus simulations. Click a gallery image to enlarge it. Team visuals do not imply that all displayed work was performed individually. Source slides: FrED 10–11; ABB 19–20; scale vehicle 12–13; Carrier 17–18; Schneider 18 and 27.
 
-### Design and images
+## Content scope
+Siemens work uses generalized descriptions and diagrams. Internal reports, presentation screenshots, machine identifiers, node addresses and proprietary mechanism photographs are excluded. Current thesis work and planned factory integration are distinguished. The Vusion AI stage is a proposal. Project-reported demonstration results are distinguished from measured production metrics and investment estimates.
 
-- `style.css`: colors, typography and layout.
-- `app.js`: project filters.
-- Upload shareable project images into `` and reference them with relative paths.
-- The current schematics are explanatory illustrations, not original CAD or photographs.
-
-## Content integrity
-
-Employment is distinguished from academic collaboration. ABB and Schneider performance figures are proposal estimates. Current thesis work is marked in progress. Confidential Siemens code, documentation, machine identifiers and images are excluded. Add employer or team materials only after checking permission to share them.
-
-The website was created with AI assistance and should not be presented as evidence of independently developed frontend skills.
-
-## Local use
-
-Serve the repository directory with any static web server. No installation or build step is required. All page links are relative.
-
-## Contact
-
-Diego Flores Montes de Oca · [LinkedIn](https://www.linkedin.com/in/dfmdo/)
-
+This website was prepared with AI assistance and is not evidence of independently developed frontend skills.
