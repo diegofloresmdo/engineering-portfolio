@@ -6,7 +6,7 @@ Private working version, updated October 18, 2026. GitHub Pages remains unpublis
 Edit index.html for the overview; each project has its own HTML file. Edit style.css for layout and app.js for filters. Serve this folder with a static web server for local preview. No build step is needed.
 
 ## Images
-Ten WebP assets are cropped from the supplied academic team presentations. Captions identify physical photographs versus simulations. Click a gallery image to enlarge it. Team visuals do not imply that all displayed work was performed individually. Source slides: FrED 10–11; ABB 19–20; scale vehicle 12–13; Carrier 17–18; Schneider 18 and 27.
+Ten WebP assets are cropped from the supplied academic team presentations. Captions identify physical photographs versus simulations. Click a gallery image to enlarge it. Team visuals do not imply that all displayed work was performed individually.
 
 ## Content scope
 Siemens work uses generalized descriptions and diagrams. Internal reports, presentation screenshots, machine identifiers, node addresses and proprietary mechanism photographs are excluded. Current thesis work and planned factory integration are distinguished. The Vusion AI stage is a proposal. Project-reported demonstration results are distinguished from measured production metrics and investment estimates.
